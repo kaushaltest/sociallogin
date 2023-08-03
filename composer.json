@@ -1,5 +1,5 @@
 {
-    "name": "kaushal/sociallogin",
+    "name": "sociallogin/sociallogin",
     "description": "This will provide social login function",
     "type": "library",
     "license": "MIT",
@@ -13,7 +13,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "kaushal\\sociallogin\\": "src/"
+            "sociallogin\\sociallogin\\": "src/"
         }
     }
 }

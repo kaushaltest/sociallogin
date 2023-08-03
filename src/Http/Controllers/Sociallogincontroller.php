@@ -1,6 +1,6 @@
 <?php
 
-namespace kaushal\sociallogin\Http\Controllers;
+namespace sociallogin\sociallogin\Http\Controllers;
 
 use Illuminate\Http\Request;
 use App\Http\Controllers\Controller;

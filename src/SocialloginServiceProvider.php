@@ -1,5 +1,5 @@
 <?php
-namespace kaushal\sociallogin;
+namespace sociallogin\sociallogin;
 use Illuminate\Support\ServiceProvider;
 
 class SocialloginServiceProvider extends ServiceProvider

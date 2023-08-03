@@ -1,0 +1,19 @@
+{
+    "name": "kaushal/sociallogin",
+    "description": "This will provide social login function",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "kaushal",
+            "email": "tretiya.kaushal@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "kaushal\\sociallogin\\": "src/"
+        }
+    }
+}

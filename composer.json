@@ -10,7 +10,10 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {},
+    "require": {
+        "php": "^7.4",
+        "laravel/socialite": "^5.8"
+    },
     "autoload": {
         "psr-4": {
             "sociallogin\\sociallogin\\": "src/"

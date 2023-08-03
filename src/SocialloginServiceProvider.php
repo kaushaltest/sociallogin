@@ -13,7 +13,7 @@ class SocialloginServiceProvider extends ServiceProvider
         );
         $this->publishes([
             __DIR__.'/config/secretkey.php' =>config_path('secretkey.php')
-        ]);
+        ],'sociallogin-config');
     }
 
     public function register()

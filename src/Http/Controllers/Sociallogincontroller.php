@@ -9,7 +9,7 @@ class Sociallogincontroller extends Controller
 {
     public function redirectToGoogle()
     {
-        echo config('secretkey.key');
-        // return Socialite::driver('google')->redirect();
+        // echo config('secretkey.key');
+        return Socialite::driver('google')->redirect();
     }
 }

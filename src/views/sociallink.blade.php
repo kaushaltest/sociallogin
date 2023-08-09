@@ -8,6 +8,6 @@
 </head>
 <body>
     <h1>Social Links</h1>
-    <button type="button"><a href="{{url('auth/google')}}">Google Login</a><button>
+    <button type="button"><a href="{{url('auth/google')}}">Google Login</a></button>
 </body>
 </html>
